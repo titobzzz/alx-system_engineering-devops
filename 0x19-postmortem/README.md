@@ -1,5 +1,5 @@
 Systems are meant to fail, but how organizations respond to these failures defines their resilience. Postmortems, structured analyses conducted after operational failures, play a crucial role in this response. By dissecting failures, identifying root causes, and implementing preventive measures, teams turn setbacks into opportunities for learning and improvement. Postmortems foster accountability, transparency, and a blame-free culture, enabling teams to openly discuss failures and collaborate on solutions. They also mitigate risks by proactively addressing weaknesses in systems and processes. Ultimately, postmortems promote a culture of learning, innovation, and continuous improvement, ensuring greater reliability and success within organizations.
-##ExampleFOr ALX postmorterms task.
+#ExampleFOr ALX postmorterms task.
 Issue Summary:
 Duration: The outage occurred from 10:00 AM to 1:00 PM GMT.
 Impact: The HAProxy service was down, leading to service disruptions for all incoming traffic routed through the load balancer. Users experienced intermittent connectivity issues and slow response times during this period. Approximately 30% of users were affected by the outage.
